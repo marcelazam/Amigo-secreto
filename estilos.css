@@ -1,0 +1,24 @@
+body {
+    background-color: #800080; /* Morado */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: black; /* Negro */
+    text-align: center;
+    font-size: 3em; /* Tamaño de la letra más grande */
+    font-family: 'Arial Rounded MT Bold', sans-serif; /* Letra redonda */
+}
+
+p {
+    color: black; /* Negro */
+    font-style: italic; /* Cursiva */
+}
+
+button {
+    background-color: #FF69B4; /* Rosado */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
